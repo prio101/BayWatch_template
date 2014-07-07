@@ -3,8 +3,16 @@ Bay Watch Template :
 
 I make this template to use in my Codeigniter and Laravel project works.
 
-Stuff used :
-=============
+@ Contributor : Mahabub Islam
+
+@ Email : miprio101@gmail.com
+
+@ Author Website : http://www.mahabubislam.com 
+
+
+
+#Stuff used :
+
 
 1.  bootstrap 3   
     link : www.getbootstrap.com
